@@ -16,4 +16,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 
 
-faisal
+ ### 🧑‍💻 Intern Profiles
+- **Mhammad Faisal**  
+  - University of GCUF  
+  - Interested in: Devops Engineer  
+  - GitHub: [malikfaisal11](https://github.com/malikfaisal11)
